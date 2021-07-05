@@ -1,0 +1,38 @@
+section {
+  margin: o;
+  background-image: url("img/top-banner.png");
+  background-repeat: no-repeat;
+  display: flex;
+}
+
+.line-po {
+  padding-left: 5%;
+  width: 40%;
+}
+.line-po img {
+  width: 100%;
+}
+.line-po h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 500%;
+}
+.line-po h2 {
+  font-size: 400%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.line-po h3 {
+  font-size: 150%;
+}
+.line-po p {
+  font-size: 130%;
+  color: dimgray;
+}
+.line-po a {
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 10px 40px;
+  color: white;
+  font-weight: 900;
+  font-size: 150%;
+}
